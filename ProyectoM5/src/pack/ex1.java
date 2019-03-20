@@ -11,6 +11,8 @@ public class ex1 {
 		//existe(f);
 		String[][]s=new String [3][2];
 		s=a(s);
+		double affewr=1.4;
+		
 	}
 	public static void existe (File f) {
 		if (f.exists()) {
