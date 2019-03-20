@@ -11,7 +11,6 @@ public class ejercicio1 {
 		//existe(f);
 		String[][]s=new String [3][2];
 		s=a(s);
-		int a=567;
 	}
 	public static void existe (File f) {
 		if (f.exists()) {
